@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<gupdate xmlns='http://google.com' protocol='2.0'>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='ikhcphndilngkbdneolcmikadikelade'>
-    <updatecheck codebase='https://githubusercontent.com' version='1.1' />
+    <updatecheck codebase='https://raw.githubusercontent.com/YTPlayablesBlocker/yt-blocker/main/Shorts%20nd%20Playables%20blocker%20custom%20made.crx' version='1.1' />
   </app>
 </gupdate>
